@@ -1,0 +1,5 @@
+print("integrantes:")
+print("-Alejandro Muñoz")
+print("-Jose Valdes")
+print("-Tomas Vascour")
+print("-Sebastian Navarro")
